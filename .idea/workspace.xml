@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9aa32c0-9b0a-4595-befc-caec0533dbe8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson2/src/components/List.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/src/App.js" afterPath="$PROJECT_DIR$/lesson2/src/App.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/src/components/PostsList.js" afterPath="$PROJECT_DIR$/lesson2/src/components/PostsList.js" />
     </list>
@@ -19,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson2/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+              <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="49" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -31,11 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostsList.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PostsList.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson2/src/components/PostsList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostListItem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson2/src/components/PostListItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -46,16 +56,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostListItem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson2/src/components/PostListItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/lesson2/src/components/MoreButton.js" />
         <option value="$PROJECT_DIR$/lesson2/src/components/Loader.js" />
         <option value="$PROJECT_DIR$/lesson2/src/components/List.js" />
-        <option value="$PROJECT_DIR$/lesson2/src/components/PostsList.js" />
         <option value="$PROJECT_DIR$/lesson2/src/App.js" />
+        <option value="$PROJECT_DIR$/lesson2/src/components/PostsList.js" />
       </list>
     </option>
   </component>
@@ -197,7 +197,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15779000" />
+    <option name="totallyTimeSpent" value="17948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="1066" width="1865" height="1095" extended-state="6" />
@@ -354,6 +354,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/src/components/PostListItem.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -364,18 +374,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/src/components/PostsList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>

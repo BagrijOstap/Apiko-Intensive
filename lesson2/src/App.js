@@ -22,7 +22,7 @@ function App() {
     <div className="App">
 
 	    {
-		    isLoading ?  <Loader/> : <PostsList/>
+		    isLoading ?  <Loader/> : <PostsList posts={posts}/>
 	    }
     </div>
 	);
